@@ -165,6 +165,9 @@ img {
     font-size: 2em;
     flex-direction: column;
   }
+  .side-nav{
+    font-size:14px;
+  }
 }
 @media (min-width: 660px) {
   .small-nav {
@@ -177,6 +180,7 @@ img {
     flex-direction: column;
   }
   .side-nav {
+    
     display: none;
   }
 
