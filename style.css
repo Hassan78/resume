@@ -99,8 +99,8 @@ body {
 .dropdown {
   position: absolute;
   display: inline-block;
-  right: 0;
-  bottom: 0;
+  right: 50px;
+  bottom: 50px;
 }
 .nav-content {
   display: none;
