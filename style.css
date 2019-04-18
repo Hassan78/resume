@@ -132,6 +132,9 @@ body {
   font-size: 100px;
   cursor: pointer;
 }
+.barsIcon{
+  font-size:2em;
+}
 .font-awesome{
   font-size: 3em;
   color:tomato;
