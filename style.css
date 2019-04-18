@@ -132,6 +132,10 @@ body {
   font-size: 100px;
   cursor: pointer;
 }
+.font-awesome{
+  font-size: 3em;
+  color:tomato;
+}
 .project-container {
   display: -webkit-flex;
   display: flex;
